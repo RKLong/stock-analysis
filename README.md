@@ -1,5 +1,6 @@
 # stock-analysis
-Challenge 2 - VBA UCB Bootcamp
+** Challenge 2 - VBA UCB Bootcamp **
+
 
 Overview of the Project
 The workbook was initially created for Steve to analyze the stocks his parents were interested in investing on, but then since it was also possible to expand the data set to include other stocks that have been performing better than the ones his parents were interested in.
