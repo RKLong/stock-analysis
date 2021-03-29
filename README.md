@@ -3,7 +3,7 @@
 
 
 # Overview of the Project
-The workbook was initially created for Steve to analyze the stocks his parents were interested in investing on, but then since it was also possible to expand the data set to include other stocks that have been performing better than the ones his parents were interested in.
+The workbook was initially created for Steve to analyze the stocks his parents were interested in investing on and since it was also possible to expand the data set to include other stocks that have been performing better than the ones his parents were interested in.
 
 We were also given the task to refactor the initial code(All Stocks Analysis) we worked  on to test or determine whether the refactored code (AllStocksAnalysisRefactored) would run more efficient than the initial code. 
 
